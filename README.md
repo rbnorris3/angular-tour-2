@@ -96,4 +96,4 @@ The rest of this section seems ok.
 
 This section is ok.
 
-The code in this repo is working version of the completed project.
+The code in this repo is a working version of the completed project.
