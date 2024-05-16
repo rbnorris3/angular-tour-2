@@ -9,3 +9,7 @@ Add the --no-standalone argument to the ng new command
 `ng new --no-standalone angular-tour-of-heroes`
 
 
+The rest of the create a project page seems ok.
+
+### 1. The hero editor
+
