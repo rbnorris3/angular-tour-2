@@ -84,16 +84,24 @@ Don NOT run `ng generate module app-routing --flat --module=app`.
 
 Continue on, and edit the file that already exists.
 
-**ALSO**: Once the route is added, you will want to adjust your browser URL to `/heroes`, 
-otherwise it will display a blank page.
+**ALSO**: Once the route is added, you will want to adjust
+your browser URL to `/heroes`, otherwise it will display a
+blank page.
 
-Once the nav is added, there will be a nav bar available no matter which URL
+Once the nav is added, there will be a nav bar available no
+matter which URL
 
 
 The rest of this section seems ok.
 
 ## 6. Get data from a server
 
-This section is ok.
+There are a lot of changes that will break the page, or
+throw errors. This is expected, as there are usually a
+couple additional changes needed to fix the code again.
+Don't be too alarmed if things seem not to work, this seems
+intentional to point out the behavior? 
 
-The code in this repo is a working version of the completed project.
+
+The code in this repo is a working version of the completed
+project.
