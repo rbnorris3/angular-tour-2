@@ -98,7 +98,7 @@ The rest of this section seems ok.
 
 There are a lot of changes that will break the page, or
 throw errors. This is expected, as there are usually a
-couple additional changes needed to fix the code again.
+couple additional changes needed to fix the code.
 Don't be too alarmed if things seem not to work, this seems
 intentional to point out the behavior? 
 
