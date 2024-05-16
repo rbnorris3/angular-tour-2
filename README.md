@@ -1,6 +1,6 @@
 # Changes to make the Angular tutorial work.
 
-These are the modifications to make the tutorial work.
+These are the modifications I found necessary to follow the tutorial and make it work.
 
 ## Create a project
 
