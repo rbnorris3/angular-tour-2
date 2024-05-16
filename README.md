@@ -56,12 +56,12 @@ This gets added inside the button tag, so now it looks like this:
 
 `   <button type="button"  (click)="onSelect(hero)" [class.selected]="hero === selectedHero">`
 
-## 3 - Create a feature component.
+## 3. - Create a feature component.
 
 ### Add the @Input() hero property
 The Add the @Input() stuff goes in the export class HeroDetailComponent
 
-## 4 - Add services
+## 4. - Add services
 
 ### Create the Hero Service
 The getHeroes() addition should be put in the `export class HeroService`
@@ -74,3 +74,24 @@ Same thing, this gets added inside the `export class HeroesComponent`
 
 ### Call it in ngOnInit
 Same thing, this gets added inside the `export class HeroesComponent`
+
+## 5. Add navigation
+
+### Add the AppRoutingModule
+If you try to run this, it will fail with a merge error. The file was 
+created when the project was generated, so this step is unnecessary.
+
+
+Don NOT run `ng generate module app-routing --flat --module=app`.
+
+Continue on, and edit the file that already exists.
+
+**ALSO**: Once the route is added, you will want to adjust your browser URL to `/heroes`, 
+otherwise it will display a blank page.
+
+Once the nav is added, there will be a nav bar available no matter which URL
+
+
+The rest of this section seems ok.
+
+## 6. Get data from a server
