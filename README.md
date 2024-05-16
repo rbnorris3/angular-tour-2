@@ -98,4 +98,4 @@ The rest of this section seems ok.
 
 This section is ok.
 
-The code in the repo is the final working project.
+The code in this repo is the final working project.
