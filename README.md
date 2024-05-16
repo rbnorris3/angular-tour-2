@@ -24,8 +24,7 @@ The export class HeroesComponent *REPLACES* the existing export.  Once this is c
 **DO NOT ADD** the imports for NgFor, and do not set to standalone! 
 *This will break the component!*
 
-The NgFor was added to the NgModule in app.module.ts, and is already 
-available to the component. 
+The NgFor was added to the NgModule in app.module.ts (within the FormsModule), and is already available to the component. 
 
 ### Style the heros:
 This is a little confusing. the file they are showing as an example will not match ours.There is nothing to change in the file they are showing, it was to point out the link to the css file - don't change anything in the component.ts - only add the css from the bottom of the page to the empty `heroes.component.css`
