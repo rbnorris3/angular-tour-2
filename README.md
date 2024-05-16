@@ -103,6 +103,7 @@ couple additional changes needed to fix the code after it breaks.
 Don't be too alarmed if things seem not to work, this seems
 intentional to point out the behavior? 
 
+##
 
 The code in this repo is a working version of the completed
 project.
