@@ -95,3 +95,4 @@ Once the nav is added, there will be a nav bar available no matter which URL
 The rest of this section seems ok.
 
 ## 6. Get data from a server
+Looks good up to Search by Name. I have not progressed further than this.
