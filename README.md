@@ -41,7 +41,9 @@ This code gets added to the `export class HeroesComponent`, so it looks like thi
 ```
 export class HeroesComponent {
   heroes = HEROES;
+
   selectedHero?: Hero;
+  
   onSelect(hero: Hero): void {
     this.selectedHero = hero;
   }
