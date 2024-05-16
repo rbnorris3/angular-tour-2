@@ -57,3 +57,20 @@ This gets added inside the button tag, so now it looks like this:
 `   <button type="button"  (click)="onSelect(hero)" [class.selected]="hero === selectedHero">`
 
 ## 3 - Create a feature component.
+
+### Add the @Input() hero property
+The Add the @Input() stuff goes in the export class HeroDetailComponent
+
+## 4 - Add services
+
+### Create the Hero Service
+The getHeroes() addition should be put in the `export class HeroService`
+
+### Inject the HeroService
+The constructor gets added at the top inside `export class HeroesComponent`
+
+### Add getHeroes
+Same thing, this gets added inside the `export class HeroesComponent`
+
+### Call it in ngOnInit
+Same thing, this gets added inside the `export class HeroesComponent`
